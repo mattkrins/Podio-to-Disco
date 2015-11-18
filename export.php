@@ -1,5 +1,5 @@
 <?php
-	$input = 'Assets - Last view used.csv';
+	$input = 'Assets - Last view used (example).csv';
 	$output = 'Results.csv';
 	$NewHeadings = array(
 		"Device Serial Number",
@@ -9,52 +9,10 @@
 		"Device Location",
 	);
 	$models = array(
-		"11e Chromebook" => 5,
-		"X131e Chromebook" => 6,
-		"Acer P446M" => 10,
-		"Macbook Pro 13" => 12,
-		"Macbook White" => 13,
-		"Custom Build" => 4,
-		"iMac 27" => 11,
-		"L430" => 20,
-		"L420" => 14,
-		"L410" => 15,
-		"L412" => 19,
-		"L510" => 18,
-		"L512" => 21,
-		"X220i" => 7,
-		"X230i" => 9,
-		"X230" => 8,
-		"M71e" => 17,
-		"A62" => 16,
+		"X131e Chromebook" => 1,
 	);
 	$batches = array(
 		"Parent Purchase" => 1,
-		"Private Purchase" => 18,
-		"School Purchased Parts" => 26,
-		"RND1CYC5" => 19,
-		"RND1CYC6" => 20,
-		"RND2CYC5" => 21,
-		"RND3CYC5" => 22,
-		"RND4CYC4" => 23,
-		"RND4CYC5" => 24,
-		"RND5CYC4" => 25,
-		"P000334" => 13,
-		"P004858" => 14,
-		"P005636" => 15,
-		"P005973" => 16,
-		"P006335" => 17,
-		"13504" => 2,
-		"14560" => 3,
-		"15483" => 4,
-		"16867" => 6,
-		"16136" => 5,
-		"19135" => 7,
-		"19200" => 8,
-		"21896" => 10,
-		"2994" => 12,
-		"2756" => 11,
-		"2085" => 9,
 	);
 	$other = array(
 		"#N/A" => "",
