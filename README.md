@@ -1,6 +1,3 @@
-# PTDPHP
-PHP Podio to Disco asset/device exporter
-
 ## PTDPHP (Podio-to-Disco PHP)
 
 ![Exporting](http://i.imgur.com/Ais9oPy.png)
